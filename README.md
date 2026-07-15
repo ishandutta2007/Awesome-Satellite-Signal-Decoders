@@ -3,6 +3,9 @@
 ![Awesome Satellite Signal Decoders](assets/banner.svg)
 
 # 🚀 Awesome-Satellite-Signal-Decoders
+<p align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 ## 🛰️ Top Satellite Signal Decoders & Open-Source Alternatives
 
 A curated guide to leading **satellite signal decoders** (like SatNOGS, TinyGS, gr-satellites + GNU Radio, UZ7HO's SoundModem, SondeHub) and their **open-source/self-hosted equivalents**. 
