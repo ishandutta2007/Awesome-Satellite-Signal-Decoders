@@ -31,13 +31,13 @@ Satellite decoding is a vibrant open-source field with many DIY and community-dr
 
 ### Featured Projects
 
-- **[SatNOGS](https://github.com/satnogs)** — Complete open network and client software for distributed satellite ground stations.<grok-card data-id="c5d7f5" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[gr-satellites](https://github.com/daniestevez/gr-satellites)** [![GitHub stars](https://img.shields.io/github/stars/daniestevez/gr-satellites?style=social&color=white)](https://github.com/daniestevez/gr-satellites/stargazers) — GNU Radio-based decoders for various satellite protocols.<grok-card data-id="f5b4e1" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-- **[TinyGS](https://github.com/tinygs)** — Open LoRa satellite decoder network with ground station firmware.<grok-card data-id="010d5a" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[TinyGS](https://github.com/tinygs)** [![GitHub stars](https://img.shields.io/github/stars/tinygs/tinygs?style=social&color=white)](https://github.com/tinygs/tinygs/stargazers) — Open LoRa satellite decoder network with ground station firmware.<grok-card data-id="010d5a" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-- **[gr-satellites](https://github.com/daniestevez/gr-satellites)** — GNU Radio-based decoders for various satellite protocols.<grok-card data-id="f5b4e1" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[SatNOGS](https://github.com/satnogs)** [![GitHub stars](https://img.shields.io/github/stars/satnogs/satnogs-client?style=social&color=white)](https://github.com/satnogs/satnogs-client/stargazers) — Complete open network and client software for distributed satellite ground stations.<grok-card data-id="c5d7f5" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-- **[SoundModem](https://github.com/UZ7HO)** — Open packet radio modem for AX.25 and more.
+- **[SoundModem](https://github.com/UZ7HO)** [![GitHub stars](https://img.shields.io/github/stars/UZ7HO/SoundModem?style=social&color=white)](https://github.com/UZ7HO/SoundModem/stargazers) — Open packet radio modem for AX.25 and more.
 
 ### Additional Open-Source Tools
 - **GNU Radio** ecosystem with custom flowgraphs for signal processing.
