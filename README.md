@@ -1,7 +1,7 @@
 ![Awesome Satellite Signal Decoders](assets/banner.svg)
 
-# Awesome-Satellite-Signal-Decoders
-## Top Satellite Signal Decoders & Open-Source Alternatives
+# 🚀 Awesome-Satellite-Signal-Decoders
+## 🛰️ Top Satellite Signal Decoders & Open-Source Alternatives
 
 A curated guide to leading **satellite signal decoders** (like SatNOGS, TinyGS, gr-satellites + GNU Radio, UZ7HO's SoundModem, SondeHub) and their **open-source/self-hosted equivalents**. 
 
@@ -9,7 +9,7 @@ A curated guide to leading **satellite signal decoders** (like SatNOGS, TinyGS, 
 
 ---
 
-## SaaS / Cloud-Hosted or Commercial Satellite Signal Decoders
+## ☁️ SaaS / Cloud-Hosted or Commercial Satellite Signal Decoders
 
 Popular tools and networks for receiving and decoding signals from satellites, weather balloons, and more.
 
@@ -27,7 +27,7 @@ These projects enable hobbyists, researchers, and networks to track and decode s
 
 ---
 
-## Open-Source / Self-Hosted Alternatives
+## 🔓 Open-Source / Self-Hosted Alternatives
 
 Satellite decoding is a vibrant open-source field with many DIY and community-driven tools.
 
@@ -52,7 +52,7 @@ Satellite decoding is a vibrant open-source field with many DIY and community-dr
 
 ---
 
-## Comparison
+## 📊 Comparison
 
 | Aspect              | Networked/Commercial Tools            | Open-Source Ecosystem                      |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -64,7 +64,7 @@ Satellite decoding is a vibrant open-source field with many DIY and community-dr
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Acquire affordable SDR hardware (RTL-SDR recommended).
 2. Install **GNU Radio** and **gr-satellites** for decoding.
@@ -72,7 +72,7 @@ Satellite decoding is a vibrant open-source field with many DIY and community-dr
 4. Use **SoundModem** for packet-based signals.
 5. Contribute observations to public networks.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
