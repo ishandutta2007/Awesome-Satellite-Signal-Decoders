@@ -1,3 +1,5 @@
+![Awesome Satellite Signal Decoders](assets/banner.svg)
+
 # Awesome-Satellite-Signal-Decoders
 ## Top Satellite Signal Decoders & Open-Source Alternatives
 
