@@ -12,11 +12,14 @@ A curated guide to leading **satellite signal decoders** (like SatNOGS, TinyGS, 
 Popular tools and networks for receiving and decoding signals from satellites, weather balloons, and more.
 
 ### Leading Options
-- **[SatNOGS](https://satnogs.org)** — Global network of open ground stations for satellite observation.
-- **[TinyGS](https://tinygs.com)** — Distributed LoRa-based satellite network for amateur reception.
-- **[gr-satellites](https://github.com/daniestevez/gr-satellites)** + **GNU Radio** — Powerful toolkit for custom satellite signal processing.
-- **[UZ7HO SoundModem](https://uz7.ho.ua)** — Desktop packet radio decoder.
-- **[SondeHub](https://sondehub.org)** — Atmospheric sonde tracking (alternative use case).
+
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[SatNOGS](https://satnogs.org)** | Global network of open ground stations for satellite observation. | Free / Open Source | Unlimited |
+| **[TinyGS](https://tinygs.com)** | Distributed LoRa-based satellite network for amateur reception. | Free / Open Source | Unlimited |
+| **[gr-satellites](https://github.com/daniestevez/gr-satellites)** + **GNU Radio** | Powerful toolkit for custom satellite signal processing. | Free / Open Source | Unlimited |
+| **[UZ7HO SoundModem](https://uz7.ho.ua)** | Desktop packet radio decoder. | Free | Unlimited |
+| **[SondeHub](https://sondehub.org)** | Atmospheric sonde tracking (alternative use case). | Free | Unlimited |
 
 These projects enable hobbyists, researchers, and networks to track and decode satellite telemetry.
 
