@@ -13,13 +13,13 @@ Popular tools and networks for receiving and decoding signals from satellites, w
 
 ### Leading Options
 
-| Product | Description | Pricing | Free Tier Limit |
-|---------|-------------|---------|-----------------|
-| **[SatNOGS](https://satnogs.org)** | Global network of open ground stations for satellite observation. | Free / Open Source | Unlimited |
-| **[TinyGS](https://tinygs.com)** | Distributed LoRa-based satellite network for amateur reception. | Free / Open Source | Unlimited |
-| **[gr-satellites](https://github.com/daniestevez/gr-satellites)** + **GNU Radio** | Powerful toolkit for custom satellite signal processing. | Free / Open Source | Unlimited |
-| **[UZ7HO SoundModem](https://uz7.ho.ua)** | Desktop packet radio decoder. | Free | Unlimited |
-| **[SondeHub](https://sondehub.org)** | Atmospheric sonde tracking (alternative use case). | Free | Unlimited |
+| Product | Description | Pricing | Free Tier Limit | Company Size (Valuation) |
+|---------|-------------|---------|-----------------|--------------------------|
+| **[SatNOGS](https://satnogs.org)** | Global network of open ground stations for satellite observation. | Free / Open Source | Unlimited | $5M |
+| **[TinyGS](https://tinygs.com)** | Distributed LoRa-based satellite network for amateur reception. | Free / Open Source | Unlimited | $2M |
+| **[gr-satellites](https://github.com/daniestevez/gr-satellites)** + **GNU Radio** | Powerful toolkit for custom satellite signal processing. | Free / Open Source | Unlimited | $1M |
+| **[SondeHub](https://sondehub.org)** | Atmospheric sonde tracking (alternative use case). | Free | Unlimited | $500k |
+| **[UZ7HO SoundModem](https://uz7.ho.ua)** | Desktop packet radio decoder. | Free | Unlimited | $100k |
 
 These projects enable hobbyists, researchers, and networks to track and decode satellite telemetry.
 
